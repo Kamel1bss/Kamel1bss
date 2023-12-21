@@ -53,37 +53,20 @@
 <hr>
 <br>
 
-
-<!-- platforms & where to find me -->
-## <p><img src="https://media.giphy.com/media/zxAoODXqWnEU3lUlnD/giphy.gif" width="70px">  Where to find me? </p>
-
-<p align="center">
-<a href="https://www.topcoder.com/members/El_Gemmy"><img src="icons/topcoder.svg" width="50px" title="topcoder" alt="TopCoder"/></a>
-  <a href="https://codeforces.com/profile/El_Gemmy"><img src="icons/codeforces.svg" alt="CodeForces" width="50px" title="codeforces"/></a>
-	<a href="https://leetcode.com/ahmedgemy2212/"><img src="icons/leetcode.svg" alt="LeetCode" width="50px" title="leetcode"/></a>
-	<a href="https://www.hackerrank.com/ahmedgemy2212"><img src="icons/hackerrank.svg" alt="HacerRank" width="50px" title="hackerrank"/></a>
-    <a href="https://atcoder.jp/users/El_Gemmy"><img src="icons/atcoder.svg" alt="AtCoder" width="50px" title="atcoder"/></a>     
-	<a href="https://www.codingame.com/profile/f700167aca9e8b68edd6f3acdd21b44c5349764"><img src="icons/codingame-1.svg" alt="Codingame" width="50px" title="codingame"></a>
-</p>
-
-<hr>
-<br>
-
-
 <!-- github stats and trophies -->
 ## <p><img src="https://media.giphy.com/media/IcnxGGAj0ubyB2r5M6/giphy.gif" alt="stats" width="50px"> <span style="color:pink">GitHub</span> Stats</p>
 
 
 <p align="center">
-    <a href="https://github.com/ahmedgamal2212">
+    <a href="https://github.com/Kamel1bss">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedgamal2212&langs_count=5&layout=compact&theme=radical">
     </a>
     <br><br>
-    <a href="https://github.com/ahmedgamal2212">
+    <a href="https://github.com/Kamel1bss">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmedgamal2212&show_icons=true&theme=radical" />
     </a>
     <br><br>
-    <a href="https://github.com/ahmedgamal2212"><img src="https://github-readme-streak-stats.herokuapp.com?user=ahmedgamal2212&theme=radical&date_format=M%20j%5B%2C%20Y%5D"></a>
+    <a href="https://github.com/Kamel1bss"><img src="https://github-readme-streak-stats.herokuapp.com?user=ahmedgamal2212&theme=radical&date_format=M%20j%5B%2C%20Y%5D"></a>
     <br><br>
     <a>
     <img src="https://github-profile-trophy.vercel.app/?username=ahmedgamal2212&theme=radical&no-frame=false&row=1&&margin-w=30&no-bg=true">
