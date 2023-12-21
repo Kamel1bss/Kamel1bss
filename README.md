@@ -1,25 +1,165 @@
-<h1 align="center">Hi 👋, I'm Ahmed Kamel</h1>
-<h3 align="center">Competitive programmer, and CS student</h3>
-<img align = "right" alt = "Coding" width = "400" src = "https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
 
+# <p align="center"><img src="https://media.giphy.com/media/LpDmM2wSt6Hm5fKJVa/giphy.gif" width="40"/>Welcome to my <span style="color:pink">GitHub</span> profile<img src="https://media.giphy.com/media/LpDmM2wSt6Hm5fKJVa/giphy.gif" width="40"/><br><br> <img src="https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif" width="100"></p>
 
-<p align="left"> <a href="https://twitter.com/kamel1bs" target="blank"><img src="https://img.shields.io/twitter/follow/kamel1bs?logo=twitter&style=for-the-badge" alt="kamel1bs" /></a> </p>
+# - I'm **Ahmed Kamel**  
 
-- 🌱 I’m currently learning **ASP.NET**
-
-- 📫 How to reach me **ahmdkamel432@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/kamel1bs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kamel1bs" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/kamel1bs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kamel1bs" height="30" width="40" /></a>
-<a href="https://fb.com/profile.php?id=100070456817000" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="profile.php?id=100070456817000" height="30" width="40" /></a>
+<p align="center">
+    <img src="https://komarev.com/ghpvc/?username=AhmedGamal2212&color=red">
+    <br>
+    <a href="https://commits.top/egypt.html">
+        <img src="https://en12si9ke02zgxr.m.pipedream.net">
+    </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kamel1bss&show_icons=true&locale=en&layout=compact" alt="kamel1bss" /></p>
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font='Hubballi'&color=d64b50&size=27&center=true&vCenter=true&width=500&height=100&lines=Software+Engineer;2X+ACPC+Finalist;Senior+Computer+Science+student;Problem+Solving+Coach"></a>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kamel1bss&show_icons=true&locale=en" alt="kamel1bss" /></p>
+<br>
 
+>> "The future depends on what you do **now**"
+
+
+<hr>
+<br>
+
+
+<!-- About -->
+## <picture> <img width="60px" src="icons/about me gif.webp"> </picture>  About me </p>
+
+
+<img align="right" src="https://media.giphy.com/media/11EcsZWIcV4q2I/giphy.gif" width = 250px/>
+
+<br><br>
+
+<ul>
+<li>I have a Bachelor's Degree in <strong>Computer Science</strong> from Suez Canal University</li>
+<li> I'm <strong>2X ACPC</strong> Finalist</li> 
+
+<li> I enjoy <strong>Problem Solving</strong> and <strong>Programming Competitions</strong></li>  
+
+<li> Passionate about <strong>Software Development</strong> and <strong>Emerging Technologies</strong></li>
+
+<li> Looking forward to being a great <strong>Software Engineer</strong></li>
+
+<li> I'm into <strong>Data Structures</strong> & <strong>Algorithms</strong> <3 </li>
+
+<li> You can look at my <a href="https://drive.google.com/file/d/1rBY5RnjqSN0YynpG6xJc-0g5VwmaVm_h/view?usp=sharing" target="blank"><strong>Resume</strong></a> for more Details about me and my work / volunteering experience  </li>
+
+</ul>
+
+ 
+
+<hr>
+<br>
+
+
+<!-- platforms & where to find me -->
+## <p><img src="https://media.giphy.com/media/zxAoODXqWnEU3lUlnD/giphy.gif" width="70px">  Where to find me? </p>
+
+<p align="center">
+<a href="https://www.topcoder.com/members/El_Gemmy"><img src="icons/topcoder.svg" width="50px" title="topcoder" alt="TopCoder"/></a>
+  <a href="https://codeforces.com/profile/El_Gemmy"><img src="icons/codeforces.svg" alt="CodeForces" width="50px" title="codeforces"/></a>
+	<a href="https://leetcode.com/ahmedgemy2212/"><img src="icons/leetcode.svg" alt="LeetCode" width="50px" title="leetcode"/></a>
+	<a href="https://www.hackerrank.com/ahmedgemy2212"><img src="icons/hackerrank.svg" alt="HacerRank" width="50px" title="hackerrank"/></a>
+    <a href="https://atcoder.jp/users/El_Gemmy"><img src="icons/atcoder.svg" alt="AtCoder" width="50px" title="atcoder"/></a>     
+	<a href="https://www.codingame.com/profile/f700167aca9e8b68edd6f3acdd21b44c5349764"><img src="icons/codingame-1.svg" alt="Codingame" width="50px" title="codingame"></a>
+</p>
+
+<hr>
+<br>
+
+
+<!-- github stats and trophies -->
+## <p><img src="https://media.giphy.com/media/IcnxGGAj0ubyB2r5M6/giphy.gif" alt="stats" width="50px"> <span style="color:pink">GitHub</span> Stats</p>
+
+
+<p align="center">
+    <a href="https://github.com/ahmedgamal2212">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedgamal2212&langs_count=5&layout=compact&theme=radical">
+    </a>
+    <br><br>
+    <a href="https://github.com/ahmedgamal2212">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmedgamal2212&show_icons=true&theme=radical" />
+    </a>
+    <br><br>
+    <a href="https://github.com/ahmedgamal2212"><img src="https://github-readme-streak-stats.herokuapp.com?user=ahmedgamal2212&theme=radical&date_format=M%20j%5B%2C%20Y%5D"></a>
+    <br><br>
+    <a>
+    <img src="https://github-profile-trophy.vercel.app/?username=ahmedgamal2212&theme=radical&no-frame=false&row=1&&margin-w=30&no-bg=true">
+    </a>
+</p>
+
+[![@el_gemmy's Holopin board](https://holopin.io/api/user/board?user=el_gemmy)](https://holopin.io/@el_gemmy)
+
+<hr>
+<br> 
+
+## <p> <img src="https://media.giphy.com/media/h1QmJxwoCr19BtTkGt/giphy.gif" alt="tech" title="tech" width="50px"> Technologies, Languages, and Tools </p>
+
+<p align="center">
+    <img src="tech-icons/cpp.svg" alt="cpp" width="50px" title="cpp">
+    <img src="tech-icons/c.svg" alt="c" width="50px" title="c">
+    <img src="tech-icons/html.svg" alt="html" width="50px" title="html">
+    <img src="tech-icons/css.svg" alt="css" width="50px" title="css">
+    <img src="tech-icons/git.svg" alt="git" width="50px" title="git">
+    <img src="tech-icons/github.svg" alt="github" width="50px" title="github">
+    <img src="tech-icons/java.svg" alt="java" width="50px" title="java">
+    <img src="tech-icons/js.svg" alt="js" width="50px" title="js">
+    <img src="tech-icons/linux.svg" alt="linux" width="50px" title="linux">
+    <img src="tech-icons/md.svg" alt="md" width="50px" title="md">
+    <img src="tech-icons/python.svg" alt="python" width="50px" title="python">
+    <img src="tech-icons/ubuntu.svg" alt="ubuntu" width="50px" title="ubuntu">
+    <img src="tech-icons/vscode.svg" alt="vscode" width="50px" title="vscode">
+</p>
+
+## <p><img src="https://media.giphy.com/media/Vbc33O3DoedXa0O6Pj/giphy.gif" width="50px"/> Currently Learning / Interested In</p> 
+
+
+
+<p align="center">
+    <img src="tech-icons/bash.svg" alt="bash" width="50px" title="bash">
+    <img src="tech-icons/next.svg" alt="next" width="50px" title="next">
+    <img src="tech-icons/node.svg" alt="node" width="50px" title="node">
+    <img src="tech-icons/react.svg" alt="react" width="50px" title="react">
+    <img src="tech-icons/vue.svg" alt="vue" width="50px" title="vue">
+    <img src="tech-icons/wp.svg" alt="wp" width="50px" title="wp">
+    <img src="tech-icons/bootstrap.svg" alt="bootstrap" width="50px" title="bootstrap">
+    <img src="tech-icons/spring.svg" alt="spring" width="50px" title="spring">
+</p>
+
+<br>
+
+<p align="center">
+    <img src="https://media.giphy.com/media/yjSNYYnj9gAeUbSHr3/giphy.gif" alt="clion" title="clion" width="60px">
+    <img src="https://media.giphy.com/media/cYU6YcPE5YlJxh6otp/giphy.gif" alt="pycharm" title="pycharm" width="60px">
+    <img src="https://media.giphy.com/media/0ZKDGWWimlunrp82XU/giphy.gif" alt="webstorm" title="webstorm" width="60px">
+    <img src="https://media.giphy.com/media/iJWXxAr2Za6EtN2Row/giphy.gif" alt="ij" title="ij" width="60px">
+    <img src="https://media.giphy.com/media/ukzNjL2uvnKjQwiO96/giphy.gif" alt="jb" title="jb" width="100px">
+</p>
+
+
+<hr>
+<br>
+
+<!-- how to reach me -->
+## <p><img src="https://media.giphy.com/media/feQRYLoruyjguhLjK1/giphy.gif" width="40px"> How to Reach Me </p>
+
+<!-- -->
+<p align="center">
+	<a href="mailto:ahmedgamal.ssaleh@gmail.com"><img img src="icons/gmail2.svg" alt="Gmail" title="gmail" width="50px"/></a>
+	<a href="https://github.com/ahmedgamal2212"><img src="icons/github.svg" alt="GitHub" title="github" width="50px"/></a>
+	<a href="https://wa.me/021226384555"><img src="icons/whatsapp.svg" alt="Whatsapp" title="whatsapp" width="50px"/></a>
+	<a href="https://www.linkedin.com/in/ahmedgamalssaleh/"><img src="icons/linkedin.svg" alt="LinkedIn" width="50px" title="linkedin"/></a>
+	<a href="https://www.facebook.com/ahmed.ggamalssaleh"><img src="icons/Facebook.svg" alt="Facebook" title="facebook" width="50px"/></a>
+</p>
+<hr>
+
+
+<!-- end -->
+<p align="center" class="box" style="text-align:center">
+    <p align="center">Don't forget to give this repo a star <img src="https://media.giphy.com/media/k9F6ZtOTEr4UGmt3H2/giphy.gif" width="40px" alt="star" title="star"><br> Thank you for your attention<br> <img src="https://media.giphy.com/media/3HbtyiV6otnLf4WHSN/giphy.gif" alt="duck" title="duck" width="300px"></p>
+    
+</p>
