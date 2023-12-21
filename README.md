@@ -4,17 +4,13 @@
 # - I'm **Ahmed Kamel**  
 
 <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=AhmedGamal2212&color=red">
-    <br>
-    <a href="https://commits.top/egypt.html">
-        <img src="https://en12si9ke02zgxr.m.pipedream.net">
-    </a>
+    <img src="https://komarev.com/ghpvc/?username=Kamel1bss&color=red">
 </p>
 
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font='Hubballi'&color=d64b50&size=27&center=true&vCenter=true&width=500&height=100&lines=Software+Engineer;2X+ACPC+Finalist;Senior+Computer+Science+student;Problem+Solving+Coach"></a>
+  <img src="https://readme-typing-svg.herokuapp.com?font='Hubballi'&color=d64b50&size=27&center=true&vCenter=true&width=500&height=100&lines=Software+Engineer;Senior+Computer+Science+student;Competitive+Programmer"></a>
 </p>
 
 <br>
@@ -35,7 +31,7 @@
 <br><br>
 
 <ul>
-<li>I have a Bachelor's Degree in <strong>Computer Science</strong> from Suez Canal University</li>
+<li>I have a Bachelor's Degree in <strong>Computer Science</strong> from KafrElshiekh University</li>
 <li> I enjoy <strong>Problem Solving</strong> and <strong>Programming Competitions</strong></li>  
 
 <li> Passionate about <strong>Software Development</strong> and <strong>Emerging Technologies</strong></li>
@@ -44,39 +40,10 @@
 
 <li> I'm into <strong>Data Structures</strong> & <strong>Algorithms</strong> <3 </li>
 
-<li> You can look at my <a href="https://drive.google.com/file/d/1rBY5RnjqSN0YynpG6xJc-0g5VwmaVm_h/view?usp=sharing" target="blank"><strong>Resume</strong></a> for more Details about me and my work / volunteering experience  </li>
-
 </ul>
-
- 
 
 <hr>
 <br>
-
-<!-- github stats and trophies -->
-## <p><img src="https://media.giphy.com/media/IcnxGGAj0ubyB2r5M6/giphy.gif" alt="stats" width="50px"> <span style="color:pink">GitHub</span> Stats</p>
-
-
-<p align="center">
-    <a href="https://github.com/Kamel1bss">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedgamal2212&langs_count=5&layout=compact&theme=radical">
-    </a>
-    <br><br>
-    <a href="https://github.com/Kamel1bss">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmedgamal2212&show_icons=true&theme=radical" />
-    </a>
-    <br><br>
-    <a href="https://github.com/Kamel1bss"><img src="https://github-readme-streak-stats.herokuapp.com?user=ahmedgamal2212&theme=radical&date_format=M%20j%5B%2C%20Y%5D"></a>
-    <br><br>
-    <a>
-    <img src="https://github-profile-trophy.vercel.app/?username=ahmedgamal2212&theme=radical&no-frame=false&row=1&&margin-w=30&no-bg=true">
-    </a>
-</p>
-
-[![@el_gemmy's Holopin board](https://holopin.io/api/user/board?user=el_gemmy)](https://holopin.io/@el_gemmy)
-
-<hr>
-<br> 
 
 ## <p> <img src="https://media.giphy.com/media/h1QmJxwoCr19BtTkGt/giphy.gif" alt="tech" title="tech" width="50px"> Technologies, Languages, and Tools </p>
 
@@ -135,12 +102,4 @@
 	<a href="https://wa.me/01025452482"><img src="icons/whatsapp.svg" alt="Whatsapp" title="whatsapp" width="50px"/></a>
 	<a href="https://www.linkedin.com/in/kamel1bs/"><img src="icons/linkedin.svg" alt="LinkedIn" width="50px" title="linkedin"/></a>
 	<a href="https://www.facebook.com/profile.php?id=100082778169732"><img src="icons/Facebook.svg" alt="Facebook" title="facebook" width="50px"/></a>
-</p>
-<hr>
-
-
-<!-- end -->
-<p align="center" class="box" style="text-align:center">
-    <p align="center">Don't forget to give this repo a star <img src="https://media.giphy.com/media/k9F6ZtOTEr4UGmt3H2/giphy.gif" width="40px" alt="star" title="star"><br> Thank you for your attention<br> <img src="https://media.giphy.com/media/3HbtyiV6otnLf4WHSN/giphy.gif" alt="duck" title="duck" width="300px"></p>
-    
 </p>
