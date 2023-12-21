@@ -149,11 +149,11 @@
 
 <!-- -->
 <p align="center">
-	<a href="mailto:ahmedgamal.ssaleh@gmail.com"><img img src="icons/gmail2.svg" alt="Gmail" title="gmail" width="50px"/></a>
-	<a href="https://github.com/ahmedgamal2212"><img src="icons/github.svg" alt="GitHub" title="github" width="50px"/></a>
-	<a href="https://wa.me/021226384555"><img src="icons/whatsapp.svg" alt="Whatsapp" title="whatsapp" width="50px"/></a>
-	<a href="https://www.linkedin.com/in/ahmedgamalssaleh/"><img src="icons/linkedin.svg" alt="LinkedIn" width="50px" title="linkedin"/></a>
-	<a href="https://www.facebook.com/ahmed.ggamalssaleh"><img src="icons/Facebook.svg" alt="Facebook" title="facebook" width="50px"/></a>
+	<a href="mailto:ahmdkamel432bs@gmail.com"><img img src="icons/gmail2.svg" alt="Gmail" title="gmail" width="50px"/></a>
+	<a href="https://github.com/Kamel1bss"><img src="icons/github.svg" alt="GitHub" title="github" width="50px"/></a>
+	<a href="https://wa.me/01025452482"><img src="icons/whatsapp.svg" alt="Whatsapp" title="whatsapp" width="50px"/></a>
+	<a href="https://www.linkedin.com/in/kamel1bs/"><img src="icons/linkedin.svg" alt="LinkedIn" width="50px" title="linkedin"/></a>
+	<a href="https://www.facebook.com/profile.php?id=100082778169732"><img src="icons/Facebook.svg" alt="Facebook" title="facebook" width="50px"/></a>
 </p>
 <hr>
 
