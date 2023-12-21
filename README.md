@@ -13,14 +13,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font='Hubballi'&color=d64b50&size=27&center=true&vCenter=true&width=500&height=100&lines=Software+Engineer;Senior+Computer+Science+student;Competitive+Programmer"></a>
 </p>
 
-<br>
-
->> "The future depends on what you do **now**"
-
-
-<hr>
-<br>
-
 
 <!-- About -->
 ## <picture> <img width="60px" src="icons/about me gif.webp"> </picture>  About me </p>
