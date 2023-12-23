@@ -64,7 +64,6 @@
     <img src="tech-icons/next.svg" alt="next" width="50px" title="next">
     <img src="tech-icons/node.svg" alt="node" width="50px" title="node">
     <img src="tech-icons/react.svg" alt="react" width="50px" title="react">
-    <img src="tech-icons/vue.svg" alt="vue" width="50px" title="vue">
     <img src="tech-icons/wp.svg" alt="wp" width="50px" title="wp">
     <img src="tech-icons/bootstrap.svg" alt="bootstrap" width="50px" title="bootstrap">
     <img src="tech-icons/spring.svg" alt="spring" width="50px" title="spring">
