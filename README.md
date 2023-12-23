@@ -41,7 +41,7 @@
 
 <p align="center">
     <img src="tech-icons/cpp.svg" alt="cpp" width="50px" title="cpp">
-    <img src="tech-icons/c.svg" alt="c" width="50px" title="c">
+    <img src="tech-icons/cc.svg" alt="c" width="50px" title="c">
     <img src="tech-icons/html.svg" alt="html" width="50px" title="html">
     <img src="tech-icons/css.svg" alt="css" width="50px" title="css">
     <img src="tech-icons/git.svg" alt="git" width="50px" title="git">
