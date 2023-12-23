@@ -41,17 +41,13 @@
 
 <p align="center">
     <img src="tech-icons/cpp.svg" alt="cpp" width="50px" title="cpp">
-    <img src="tech-icons/cc.svg" alt="c" width="50px" title="c">
     <img src="tech-icons/html.svg" alt="html" width="50px" title="html">
     <img src="tech-icons/css.svg" alt="css" width="50px" title="css">
     <img src="tech-icons/git.svg" alt="git" width="50px" title="git">
     <img src="tech-icons/github.svg" alt="github" width="50px" title="github">
     <img src="tech-icons/java.svg" alt="java" width="50px" title="java">
     <img src="tech-icons/js.svg" alt="js" width="50px" title="js">
-    <img src="tech-icons/linux.svg" alt="linux" width="50px" title="linux">
-    <img src="tech-icons/md.svg" alt="md" width="50px" title="md">
     <img src="tech-icons/python.svg" alt="python" width="50px" title="python">
-    <img src="tech-icons/ubuntu.svg" alt="ubuntu" width="50px" title="ubuntu">
     <img src="tech-icons/vscode.svg" alt="vscode" width="50px" title="vscode">
 </p>
 
@@ -61,7 +57,6 @@
 
 <p align="center">
     <img src="tech-icons/bash.svg" alt="bash" width="50px" title="bash">
-    <img src="tech-icons/next.svg" alt="next" width="50px" title="next">
     <img src="tech-icons/node.svg" alt="node" width="50px" title="node">
     <img src="tech-icons/react.svg" alt="react" width="50px" title="react">
     <img src="tech-icons/wp.svg" alt="wp" width="50px" title="wp">
